@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Blog</title>
+  </head>
+  <body>
+    <header>
+      <h1>My Blog</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <h2>My First Blog Post</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet ultricies enim, vitae pharetra risus commodo vitae.</p>
+        <a href="#">Read more</a>
+      </article>
+      <article>
+        <h2>My Second Blog Post</h2>
+        <p>Sed vitae orci euismod, consectetur lacus vitae, feugiat tortor. Donec tristique libero a ligula commodo venenatis.</p>
+        <a href="#">Read more</a>
+      </article>
+      <article>
+        <h2>My Third Blog Post</h2>
+        <p>Etiam euismod ligula non ipsum commodo consectetur. Donec vel odio vitae turpis bibendum euismod ut vitae est.</p>
+        <a href="#">Read more</a>
+      </article>
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 My Blog
+    </footer>
+  </body>
+</html>
